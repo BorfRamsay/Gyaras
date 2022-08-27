@@ -1,0 +1,1904 @@
+fileFormatVersion: 2
+guid: 042d47c424f4e4b0eb6bca1eea6ac1a0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ground test tileset_0
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512b8e007676f495297d32014c2d3eea
+      internalID: -1647658952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e84462c7eb854e7790a2a94942ee12d
+      internalID: -1065547560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_2
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d79baa5e4b4969b4b90bb71873bc0
+      internalID: -1410477758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753899b2ff11246c7b6625de1f915c41
+      internalID: -275454106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51881ca8a62e46d9871474a2227fb61
+      internalID: 297775921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d30197736f164dedb9806995f6318de
+      internalID: -803626332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_6
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a1bffc78e5c495fb261a527f9a8522
+      internalID: -1625625009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_7
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0968cc09f2c4fb090e4b52a3edd7dc
+      internalID: 1828284072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_8
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1511
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9270113c98544c0c8fe8b3174c6fbb8
+      internalID: 1043140683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_9
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aa3a9fe529c44bb9c8f664de95d07b
+      internalID: 1763033290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44999c788dffe4d99a58b171c3b60af8
+      internalID: 570536365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_11
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e407c9a5126d42a89ab27a38b005e03
+      internalID: 827767977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_12
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27f983ee12d142668549b29ad74d65d
+      internalID: 571237078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bf4b61ff8f1448e9f996c1aa17756d
+      internalID: 1762748186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70f8f8ad2ee84b45be67ef73d4daa8c
+      internalID: 1003075588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_15
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fad32188b7ae48fc859e7461ab6913c
+      internalID: 100701877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_16
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cbe8475f5b844f59d0cd518fb6dace
+      internalID: -126845090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_17
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67723fc2b004f4b608d1422ed8442cab
+      internalID: -793914192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_18
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f58b511e159d4ad896445c8c94e5124
+      internalID: 1040501987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7933682f3e8f4a6ab879019615d4079
+      internalID: 85835489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9add5a39f1c44d1bb10370a7c2f710
+      internalID: 1921047607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854d32a2159fc42399e574eeec389e83
+      internalID: 207448914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_22
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e625f46d085ae43ce9ffdaa2123d3873
+      internalID: 40187297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf911b8c44c14001925c4b42a9a1b35
+      internalID: -159903776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_24
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa7e07e8a84946beb77143ed1152a54
+      internalID: -1762205797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9508962229c424abe5ace051de04dc
+      internalID: 1991973998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_26
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1383
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1920d023d9ee14146b97211921295774
+      internalID: -1537765012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab9d5927e06645128c81c5779616fe0
+      internalID: -95100516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231422a68e27842ada9be2b4c2a135ff
+      internalID: 764128967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56bc0f10db724a51b95e52a874b838d
+      internalID: 582321697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f227c9fd88f0446aa8178ba2bd0ab6e
+      internalID: 2079102624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_31
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1be8d173d8d0444eaad140c8a7db45d
+      internalID: 1408285905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3efa68bf9e7b450ab0ba49ac9e8671d
+      internalID: 1637489234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_33
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b2c038be56b44eca6a985772e3889d
+      internalID: -909994374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_34
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54928dfd40b1b49249b536201095e4a4
+      internalID: -2107456048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_35
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1319
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f765abcf99415e8362ddb63a550fd
+      internalID: -1735131581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_36
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419947207012d4cae9f060f492f566f8
+      internalID: -875920052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b66c2ea21b342e7bf59d3217947127
+      internalID: 1642704756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_38
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f381f471c728d486c9de86bbe264cc99
+      internalID: 1574869437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259d4144b46d14f7193150ee6ac8c808
+      internalID: 1753854314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_40
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cc11b21b0454a92a98ce7f913ed835
+      internalID: 544844421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_41
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb06a0b0e8764c6eaf14c6fe1361e69
+      internalID: -1779094826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_42
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b708c42cce83b4a1a9cb9eba041b96ab
+      internalID: 1273020041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_43
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0575995c2f5754f01a28e084c094b4cd
+      internalID: 879615123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_44
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1255
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b11db76d7f44bb3979456bf203eafe
+      internalID: -716988879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_45
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d6e818a7d364c05a8b2ab5e44999a4
+      internalID: 707727863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7747080632b4b4097541a75a62f0a8
+      internalID: -262636430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_47
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0973cc68b40496aa4a2f5c7a8459c6
+      internalID: 1399617081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_48
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef46d256471e74b9b890b855c61d5b4f
+      internalID: -858257791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_49
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587e881073d7b452e936516fe7982d0b
+      internalID: 352923806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086a108bb4b9e4bfc892baa632268217
+      internalID: 1690167748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_51
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d9c4aec66454fa1878204afa4b188a
+      internalID: -1273938208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_52
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe09bd42d131480cb832bc8cde06a16
+      internalID: 2095068643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_53
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1191
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13a7521dfcf14fbfa86f5ab0ff1679f
+      internalID: -950040262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_54
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dbd44db5c5e4f15b2c902ea09fe56e
+      internalID: -1874908986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09bbdc69723d4cba93d467e7bdd3498
+      internalID: -1758993834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_56
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0ddda9288c44adf81661c08084c92f
+      internalID: 315137429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_57
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb4c916e263428886c46ec7d258642
+      internalID: -906860857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d27ed473c1e4b8cb9615ec765d9a8f
+      internalID: -535589919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_59
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79e73d1492e144958d4c0fb1f8e952e
+      internalID: -833924962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_60
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad51ed9230064041968ab5db3901c9b
+      internalID: -1584934745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_61
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f56b01cebbc743ab9357273f1f72acf
+      internalID: 310331246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_62
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1127
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c38dcff0fb6428d8fbd80106c1574d
+      internalID: 1290205086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_63
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b9b4d19fe0f4910b8cbd0e751c0d3f
+      internalID: 1945451453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c826dea559044759dd84aa10b4f0aa
+      internalID: 1258653914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_65
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f823abd9cf9df48fe858d749ddff4fce
+      internalID: 1358956356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_66
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e33d3500cc847deb5c863ebd3256ad
+      internalID: -2052755804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_67
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3316317ffa3749b1adfe44a3854c51c
+      internalID: -1719775657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b83bb455a834ad891c2322a28df242
+      internalID: 1872250972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_69
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d716575a583442959398093c2e241f7
+      internalID: -750866406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_70
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1971c5f8d08d54fde8e5320a90f80c3d
+      internalID: -12540273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_71
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1063
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b77af5d7f54347b2b9d0d5ec1154e5d
+      internalID: -1617269062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_72
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad66723b9e28f492f82bbea3fd74f0c9
+      internalID: -1838965201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce3a48c5212e4d3e8c46f50de9be8a7
+      internalID: 738032014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_74
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f572b0c830b164951a694b6c5905b313
+      internalID: 1688674792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_75
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c60b9e11728e460f8605bbe20dcaa66
+      internalID: 1312266173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_76
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa55a622fc63c4774923aab9566d338b
+      internalID: 1492339228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_77
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727985a93ab624d2891aea6fc31f5526
+      internalID: -801631524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_78
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49613db5c7f44dcfb500d0475c8ad16
+      internalID: 538389744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_79
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4096bb59e035b4c8483dd8e55cb57b50
+      internalID: 302807867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground test tileset_80
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3431060f57944b258be454a78c8aea2
+      internalID: 1894693415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ground test tileset_52: 2095068643
+      ground test tileset_65: 1358956356
+      ground test tileset_21: 207448914
+      ground test tileset_30: 2079102624
+      ground test tileset_27: -95100516
+      ground test tileset_29: 582321697
+      ground test tileset_74: 1688674792
+      ground test tileset_73: 738032014
+      ground test tileset_34: -2107456048
+      ground test tileset_11: 827767977
+      ground test tileset_33: -909994374
+      ground test tileset_69: -750866406
+      ground test tileset_10: 570536365
+      ground test tileset_45: 707727863
+      ground test tileset_76: 1492339228
+      ground test tileset_28: 764128967
+      ground test tileset_64: 1258653914
+      ground test tileset_18: 1040501987
+      ground test tileset_44: -716988879
+      ground test tileset_79: 302807867
+      ground test tileset_8: 1043140683
+      ground test tileset_5: -803626332
+      ground test tileset_67: -1719775657
+      ground test tileset_47: 1399617081
+      ground test tileset_23: -159903776
+      ground test tileset_38: 1574869437
+      ground test tileset_55: -1758993834
+      ground test tileset_62: 1290205086
+      ground test tileset_2: -1410477758
+      ground test tileset_58: -535589919
+      ground test tileset_6: -1625625009
+      ground test tileset_3: -275454106
+      ground test tileset_36: -875920052
+      ground test tileset_9: 1763033290
+      ground test tileset_25: 1991973998
+      ground test tileset_32: 1637489234
+      ground test tileset_46: -262636430
+      ground test tileset_63: 1945451453
+      ground test tileset_71: -1617269062
+      ground test tileset_41: -1779094826
+      ground test tileset_59: -833924962
+      ground test tileset_17: -793914192
+      ground test tileset_19: 85835489
+      ground test tileset_40: 544844421
+      ground test tileset_4: 297775921
+      ground test tileset_35: -1735131581
+      ground test tileset_53: -950040262
+      ground test tileset_16: -126845090
+      ground test tileset_50: 1690167748
+      ground test tileset_24: -1762205797
+      ground test tileset_72: -1838965201
+      ground test tileset_7: 1828284072
+      ground test tileset_14: 1003075588
+      ground test tileset_31: 1408285905
+      ground test tileset_42: 1273020041
+      ground test tileset_48: -858257791
+      ground test tileset_56: 315137429
+      ground test tileset_0: -1647658952
+      ground test tileset_22: 40187297
+      ground test tileset_70: -12540273
+      ground test tileset_66: -2052755804
+      ground test tileset_78: 538389744
+      ground test tileset_75: 1312266173
+      ground test tileset_43: 879615123
+      ground test tileset_12: 571237078
+      ground test tileset_54: -1874908986
+      ground test tileset_77: -801631524
+      ground test tileset_61: 310331246
+      ground test tileset_68: 1872250972
+      ground test tileset_37: 1642704756
+      ground test tileset_49: 352923806
+      ground test tileset_60: -1584934745
+      ground test tileset_80: 1894693415
+      ground test tileset_39: 1753854314
+      ground test tileset_20: 1921047607
+      ground test tileset_1: -1065547560
+      ground test tileset_15: 100701877
+      ground test tileset_51: -1273938208
+      ground test tileset_13: 1762748186
+      ground test tileset_26: -1537765012
+      ground test tileset_57: -906860857
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
